@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Shanghai
-    date_start: '2021-08'
+    date_start: '2021-08-22'
     date_end: ''
     description: |2-
         Responsibilities include:
