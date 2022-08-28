@@ -29,12 +29,12 @@ experience:
     location: Shanghai, China
     date_start: '2021-08'
     date_end: ''
-    # description: |2-
-    #     Responsibilities include:
+    description: |2-
+        Responsibilities include:
         
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+        * Analysing
+        * Modelling
+        * Deploying
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
