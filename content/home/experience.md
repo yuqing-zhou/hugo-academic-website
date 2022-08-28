@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer
-    company: Shanghai Huawei
+    company: Shanghai Huawei Techologies Co., Ltd.
     company_url: ''
     company_logo: org-gc
     location: Shanghai
-    date_start: '2021-09-01'
+    date_start: '2021-08'
     date_end: ''
     description: |2-
         Responsibilities include:
