@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Shanghai Huawei Techologies
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: Shanghai
     date_start: '2021-08'
     date_end: ''
