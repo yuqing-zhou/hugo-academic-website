@@ -25,12 +25,16 @@ experience:
   - title: Software Engineer
     company: Shanghai Huawei Technologies Co., Ltd.
     company_url: ''
-    company_logo: ''
+    company_logo: org-gc
     location: Shanghai, China
     date_start: '2021-08'
     date_end: ''
-    description: #|2-
-
+    # description: |2-
+    #     Responsibilities include:
+        
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
@@ -40,11 +44,6 @@ experience:
   #   date_start: '2016-01-01'
   #   date_end: '2020-12-31'
   #   description: Taught electronic engineering and researched semiconductor physics.
-      #     Responsibilities include:
-        
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
 
 design:
   columns: '2'
