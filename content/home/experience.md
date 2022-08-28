@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer
-    company: Shanghai Huawei Techologies
+    company: Shanghai Huawei Techologies Company
     company_url: ''
-    company_logo: ''
+    company_logo: org-gc
     location: Shanghai
     date_start: '2021-08'
     date_end: ''
